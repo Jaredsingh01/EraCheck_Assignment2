@@ -75,7 +75,11 @@ e. "False, Julius Caesar was a dictator, but the first emperor of Rome was Augus
 
 ![Screenshot 2025-05-20 202346](https://github.com/user-attachments/assets/75c28b13-5bd5-436f-832b-2df64f45330a)
 
-                    
+6. App Logo
+
+![Screenshot 2025-05-20 202126](https://github.com/user-attachments/assets/9d51960f-6364-44cc-8f15-48603035c15a)
+
+
 ## Technologies Used
 a. Android SDK 
 
