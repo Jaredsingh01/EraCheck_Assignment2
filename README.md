@@ -59,9 +59,13 @@ e. "False, Julius Caesar was a dictator, but the first emperor of Rome was Augus
                     
 ## Technologies Used
 a. Android SDK 
+
 b. Kotlin 
+
 c. XML Layouts 
-d. Android Studio 
+
+d. Android Studio
+
 e. Gradle
 
 ## Usage 
