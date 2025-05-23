@@ -136,12 +136,12 @@ Ensure your emulator/device API level is 21 or higher.
 Clean and rebuild the project with Build > Clean Project and then Build > Rebuild Project.
 
 ## Git Hub automations 
-# This is a basic workflow that is manually triggered 
+#This is a basic workflow that is manually triggered 
  
 name: Manual workflow 
  
-# Controls when the action will run. Workflow runs when manually triggered using the UI 
-# or API. 
+#Controls when the action will run. Workflow runs when manually triggered using the UI 
+#or API. 
 on: 
   workflow_dispatch: 
     # Inputs the workflow accepts. 
@@ -156,9 +156,9 @@ on:
         # The data type of the input 
   type: string 
  
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel 
+#A workflow run is made up of one or more jobs that can run sequentially or in parallel 
 jobs: 
-  # This workflow contains a single job called "greet" 
+  #This workflow contains a single job called "greet" 
   greet: 
     # The type of runner that the job will run on 
     runs-on: ubuntu-latest 
