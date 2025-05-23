@@ -136,12 +136,12 @@ Ensure your emulator/device API level is 21 or higher.
 Clean and rebuild the project with Build > Clean Project and then Build > Rebuild Project.
 
 ## Git Hub automations 
- This is a basic workflow that is manually triggered 
+# This is a basic workflow that is manually triggered 
  
 name: Manual workflow 
  
- Controls when the action will run. Workflow runs when manually triggered using the UI 
- or API. 
+# Controls when the action will run. Workflow runs when manually triggered using the UI 
+# or API. 
 on: 
   workflow_dispatch: 
     # Inputs the workflow accepts. 
@@ -156,9 +156,9 @@ on:
         # The data type of the input 
   type: string 
  
- A workflow run is made up of one or more jobs that can run sequentially or in parallel 
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel 
 jobs: 
-   This workflow contains a single job called "greet" 
+  # This workflow contains a single job called "greet" 
   greet: 
     # The type of runner that the job will run on 
     runs-on: ubuntu-latest 
@@ -168,7 +168,7 @@ jobs:
     # Runs a single command using the runners shell 
     - name: Send greeting 
       run: echo "Hello ${{ inputs.name }}"
-
+ 
 ## Conclusion
 ERA Check History Quiz is a lightweight, educational Android application designed to make learning history both fun and accessible. With a clean interface and immediate feedback, users can quickly assess their knowledge of key historical events while enjoying a smooth user experience. Whether you're a student brushing up for an exam or a trivia lover looking for a quick challenge, this app offers an engaging way to test and improve your history knowledge.
 
