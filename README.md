@@ -1,5 +1,24 @@
 # ERA Check History Quiz
 
+## Table Of Contents
+Introduction
+
+Overview
+
+Features
+
+Technologies Used
+
+Usage Instructions
+
+Troubleshooting
+
+Git Hub automations
+
+Conclusion
+
+
+
 ## Introduction
 This Android app is a basic history quiz consisting of five true-or-false questions. The app starts with a main screen where the user can begin the quiz. The quiz presents one question at a time, allows the user to answer true or false, and provides immediate feedback on whether the answer was correct. After answering all questions, the app displays the user's final score along with personalized feedback and an option to review the correct answers. Users can also exit the app from the results screen. The app uses multiple activities to manage navigation between the main menu, quiz, and results.
 
@@ -68,7 +87,7 @@ d. Android Studio
 
 e. Gradle
 
-## Usage 
+## Usage Instructions 
 1. Launch the App
 Open the ERA Check History Quiz app on your Android device.
 
@@ -150,5 +169,9 @@ jobs:
 ERA Check History Quiz is a lightweight, educational Android application designed to make learning history both fun and accessible. With a clean interface and immediate feedback, users can quickly assess their knowledge of key historical events while enjoying a smooth user experience. Whether you're a student brushing up for an exam or a trivia lover looking for a quick challenge, this app offers an engaging way to test and improve your history knowledge.
 
 We welcome feedback and contributions to help make the app even better. Happy quizzing!
+
+## YouTube Link
+https://youtu.be/ab7obRR4rQ4
+
 
 
