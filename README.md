@@ -7,24 +7,26 @@ This Android app is a basic history quiz consisting of five true-or-false questi
 This app is a straightforward history quiz that tests the user with five true-or-false questions. It has three main screens: a start screen to begin the quiz, a quiz screen where questions are displayed and answered, and a results screen showing the user's score and feedback. The app tracks the user’s answers, provides instant correctness feedback, and shows the results with an option to review correct answers before exiting. The app flow is managed through Android activities and intents.
 
 ## Features
-1. Start Screen: A welcome screen with a button to begin the quiz.
-   ![image](https://github.com/user-attachments/assets/0c2c7fca-d7b8-4691-9637-54be1c8fb0ae)
+1. Start Screen:
+A welcome screen with a button to begin the quiz.
+   
+![image](https://github.com/user-attachments/assets/0c2c7fca-d7b8-4691-9637-54be1c8fb0ae)
 
 2. True or False Questions: The quiz presents five history questions that the user answers by selecting True or False.
    a) "The Great Wall of China was built over many centuries by different dynasties, not in a single project."
-   ![image](https://github.com/user-attachments/assets/49a83c51-48dc-4552-860c-a47cd6f3f904)
+![image](https://github.com/user-attachments/assets/49a83c51-48dc-4552-860c-a47cd6f3f904)
    
    b) "The Declaration of Independence was signed in 1776."
-    ![image](https://github.com/user-attachments/assets/1bf963c3-a834-42e5-8cd2-0d55a510756e)
+![image](https://github.com/user-attachments/assets/1bf963c3-a834-42e5-8cd2-0d55a510756e)
    
    c) "The Titanic sank on its maiden voyage in 1912."
-   ![image](https://github.com/user-attachments/assets/de319a37-f0ba-47ef-9274-a38087e3a462)
+![image](https://github.com/user-attachments/assets/de319a37-f0ba-47ef-9274-a38087e3a462)
    
    d) "The Berlin Wall fell in 1989, marking the end of the Cold War era."
-   ![image](https://github.com/user-attachments/assets/5df88172-9233-4f42-a2f7-61563505663c)
+![image](https://github.com/user-attachments/assets/5df88172-9233-4f42-a2f7-61563505663c)
    
    e) "Julius Caesar was a dictator, but the first emperor of Rome was Augustus (his adopted heir)."
-   ![image](https://github.com/user-attachments/assets/a23dcd14-320e-4048-bcdd-c50ad0c6d064)
+![image](https://github.com/user-attachments/assets/a23dcd14-320e-4048-bcdd-c50ad0c6d064)
 
 3. Full screen background- Uses an ImageView to set backgrounds that sills the entire screen while creating an engaging and readable experience.
    
